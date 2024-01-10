@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "400962359499",
+    "firebase_url": "https://advisorapp-fad22.firebaseio.com",
+    "project_id": "advisorapp-fad22",
+    "storage_bucket": "advisorapp-fad22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400962359499:android:f493d57265b091f1758b4e",
+        "android_client_info": {
+          "package_name": "com.example.advisorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400962359499-sjonqqjv7cp72ui9l8v91sj8vhhg2lnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXlLCGifHE4kiwsjYEQ-e7bLUnU97AOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400962359499-sjonqqjv7cp72ui9l8v91sj8vhhg2lnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400962359499:android:eec30ecc55b7d65b758b4e",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400962359499-sjonqqjv7cp72ui9l8v91sj8vhhg2lnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXlLCGifHE4kiwsjYEQ-e7bLUnU97AOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400962359499-sjonqqjv7cp72ui9l8v91sj8vhhg2lnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
